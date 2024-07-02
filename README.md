@@ -12,3 +12,5 @@
 10. git checkout master , 
 11. git merge rama-nueva , para tomar los cambios de la rama nueva, por ejemplo, y fusionarlo con la rama master
 12. git branch -d rama-nueva , para borrar una rama una vez que se ha terminado de trabajar con ella y ya no se necesita
+13. git push , para el proceso de desplegado
+14. git commit -am "mensaje" , reemplaza de una a los comandos git add y git commit
