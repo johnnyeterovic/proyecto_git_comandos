@@ -8,3 +8,5 @@
 6- git log ,
 7- git commit --amend , para arreglar mensaje del commit...usar <esc>+<:>+<q>+<!> para guardar y salir
 8- git checkout -b rama-nueva , para crear una nueva rama del proyecto
+9- git branch, como ahora estoy trabajando en la rama nueva vamos a crear un nuevo archivo que se llame heroes.md
+10- git checkout master , 
